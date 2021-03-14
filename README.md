@@ -43,6 +43,16 @@ SUT - SUT는 테스트 대상 시스템을 의미한다. 어떤 사람들은 CUT
 
 격리 프레임 워크 - '격리 프레임워크(isolation framework)'란, 목과 스텁 객체를 훨씬 쉽게 생성할 수 있게 해주는 API들의 모음이다. 격리 프레임워크를 이용하면 개발자들이 객체의 상호작용을 테스트하거나 시뮬레이션하기 위해 코드를 반복 작성하는 일을 줄일 수 있다.
 
+### 6장 테스트 계층화 및 조직화
+
+클래스당 테스트 클래스 하나 (one-test-class-per-class)
+
+기능당 테스트 클래스 하나 (one-test-class-per-feature)
+
+추상 테스트 인프라 클래스 패턴 (abstract test infrastructure class pattern)
+
+### 7장 좋은 테스트의 특징
+
 #Etc
 
 프로젝트 설치 가이드 사이트  
