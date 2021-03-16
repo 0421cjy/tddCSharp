@@ -64,7 +64,31 @@ SUT - SUT는 테스트 대상 시스템을 의미한다. 어떤 사람들은 CUT
 하향식 또는 상향식으로 변화를 실현하기
 단위 테스트에 관해 나올 수 있는 어려운 질문에 대해 답 준비하기
 
+### 9장 레거시 코드 다루기
+
+### 설계와 테스트 용이성
+
+메서드를 기본적으로 virtual로 만든다.
+인터페이스 기반 설계 수행하기
+클래스는 기본적으로 Sealed가 아니게 만든다
+로직을 포함하는 매서드에서 구체적인 클래스를 생성하지 않도록 한다
+정적 메서드를 직접 호출하지 않는다
+로직을 포함하는 생성자나 정적 생성자를 사용하지 않는다
+싱글톤과 싱글톤 소유 객체를 분리한다
+
 #Etc
 
 프로젝트 설치 가이드 사이트  
 https://www.kdata.or.kr/info/info_04_view.html?field=&keyword=&type=techreport&page=26&dbnum=181181&mode=detail&type=techreport
+
+- 팩토리 매서드 패턴
+https://victorydntmd.tistory.com/299
+
+- 애자일 스크럼
+https://gdtbgl93.tistory.com/127
+
+- 레거시 코드 활용 전략
+http://www.yes24.com/Product/Goods/64586851
+
+- OOD 원칙 (Principles of OOD)
+http://www.cs.utsa.edu/~cs3443/notes/designPrinciples/designPrinciples.html
