@@ -81,14 +81,14 @@ SUT - SUT는 테스트 대상 시스템을 의미한다. 어떤 사람들은 CUT
 프로젝트 설치 가이드 사이트  
 https://www.kdata.or.kr/info/info_04_view.html?field=&keyword=&type=techreport&page=26&dbnum=181181&mode=detail&type=techreport
 
-- 팩토리 매서드 패턴
+팩토리 매서드 패턴
 https://victorydntmd.tistory.com/299
 
-- 애자일 스크럼
+애자일 스크럼
 https://gdtbgl93.tistory.com/127
 
-- 레거시 코드 활용 전략
+레거시 코드 활용 전략
 http://www.yes24.com/Product/Goods/64586851
 
-- OOD 원칙 (Principles of OOD)
+OOD 원칙 (Principles of OOD)
 http://www.cs.utsa.edu/~cs3443/notes/designPrinciples/designPrinciples.html
